@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.241125 - Rogue Outcast 1L Beam](https://github.com/Chauvet-Pro/ROGUEOUTCAST1LBEAM/blob/c436e70caa1b24ad14747f057fea9ef28907bd47/firmware/V1.241125.zip)
+- Add 2 steps standalone program
+
 [V1.250217 - Rogue Outcast 1L Beam](https://github.com/Chauvet-Pro/ROGUEOUTCAST1LBEAM/blob/38f391bf5f57b54dc8ed8f7a90c68c9599d65fad/firmware/V1.250217.zip)
 - Fix RDM issue
 
